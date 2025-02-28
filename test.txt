@@ -1,3 +1,14 @@
 hi this is txt file
 how are you
 whatsup
+seps for creating your won branch 
+1) git init 
+2)git add .
+3)git commit -m "measage"
+
+
+how to do your changes 
+1 git branch branchname
+2 git checkout branch name
+3 stage the changes - git add .
+4 commit = git commit =m " "
